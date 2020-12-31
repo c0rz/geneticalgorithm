@@ -1,0 +1,3 @@
+# geneticalgorithm
+
+Bahasa Pemrograman : Python
